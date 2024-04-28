@@ -1,5 +1,5 @@
 # Lab_Assignement2
-The second Lab Exercise focuses at the creation of an application that includes successful integration and execution of build automation tools, Docker configuration, and CI/CD pipeline setup.
+The second Lab Exercise focuses on creating an application that includes successful integration and execution of build automation tools, Docker configuration, and CI/CD pipeline setup.
 
 # Book Management CRUD Application
 
