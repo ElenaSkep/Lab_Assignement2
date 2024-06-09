@@ -1,3 +1,5 @@
+This is my public key fingerprint: D856 757D 75C0 0D03 4C8F  1994 1357 2B78 BD0B D00A
+
 # Lab_Assignement2
 The second Lab Exercise focuses on creating an application that includes successful integration and execution of build automation tools, Docker configuration, and CI/CD pipeline setup.
 
